@@ -24,7 +24,7 @@ public class Exemplo6 {
 		case 2:
 			System.out.println("Acesso de Editor");
 		case 3:
-			System.out.println("Acesso de Leitor");
+			System.out.println("Acesso de Leitor");//teste
 		
 		}
 	}
