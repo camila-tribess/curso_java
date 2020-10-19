@@ -1,0 +1,9 @@
+ctrl + F11 = executa
+crtl + shift + F = identar
+ctrl + space = auto completar (serve para impotar coisas faltantes ou para completar o comando)
+PL/SQL - Oracle
+
+Git Hub
+camila-tribess
+camila_tribess@hotmail.com
+CT-31188tc
