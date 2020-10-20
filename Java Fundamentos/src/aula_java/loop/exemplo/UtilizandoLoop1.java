@@ -20,7 +20,7 @@ public class UtilizandoLoop1 {
 
 			default:
 				System.out.println("Opção Inválida");
-				continue;
+				continue;//teste
 			}
 		}
 
